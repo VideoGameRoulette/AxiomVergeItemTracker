@@ -48,21 +48,6 @@ body {
 	background: rgba(0,0,0,0.6);
 }
 
-#container4 {
-	position: absolute;
-	top: calc((32px * 10) + 40px);
-	left: 0;
-	width: calc((32px * 12) + 20px);
-	height: calc(32px * 8.5);
-	display: flex;
-	flex-direction: column;
-	flex-wrap: wrap;
-	justify-content: space-evenly;
-	border: 10px solid transparent;
-	border-image: url(../images/FrameInner.png) 10 round;
-	background: rgba(0,0,0,0.6);
-}
-
 img {
 	width: 32px;
 	height: 32px;
